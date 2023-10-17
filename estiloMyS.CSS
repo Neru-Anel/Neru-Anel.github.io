@@ -1,0 +1,132 @@
+*{
+	margin:0px:
+	padding:0px;
+}
+div#menuPrincipal{
+	margin-top:20px;
+	margin-left:20px;
+	width:1300px;
+	height:100px;
+	background-color:gray;
+}
+div#contenedor1{
+	float:left;
+	width:500px;
+	height:100px;
+	background-color:gray;
+}
+div#contenedor2{
+	float:right;
+	width:750px;
+	height:100px;
+	background-color:gray;
+}
+
+div#body{
+	margin-top:-20px;
+	margin-left:20px;
+	width:1300px;
+	height:470px;
+	background-color:#F8F8FF;
+	
+	text-align: center;
+	overflow: hidden;
+	
+	/*vertical-align: middle;*/
+}
+.container{
+	margin:0px auto;
+	overflow:hidden;
+	width:1100px;
+	height:300px;
+	background-color:#F8F8FF;
+}
+.item {
+	margin:10px;
+	width:335px;
+	height:170px;
+	margin-top:10px;
+	margin-left: 15px;
+	background-color:#F8F8FF;
+	text-align:center;
+	float:left;
+	}
+.image {
+	margin-top:0px;
+	margin-left:20px;
+	width:1300px;
+	height:400px;
+	background-image: url("desaWeb.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	
+	/*width: 100%; /* for IE 6 */
+}
+.move{
+	position:relative;
+	left:20px;
+	top:19px;
+}
+
+.img1{
+	position:relative;
+}
+
+h4#h4h{
+
+	font: 40px/0px Helvetica,Sans-Serif;
+	color:#2F4F4F;
+}
+
+ul#servicios{
+	display: inline-block;
+	margin:0;
+	padding:0;
+	} 
+li#si{
+	display:inline-block;
+	float:left; 
+}
+li#si a {
+	background-color:#9999ff;
+	text-align:center;
+	text-decoration:none;
+	padding:120px;
+	border:20px solid #F8F8FF;
+	float:left; 
+	}
+
+ul#menu{
+	float:right;
+	list-style-type: none;
+	list-style-position: right;
+	padding: 10px;
+	border:3px solid gray;
+	border-radius: 5px;
+	margin:20px;
+	margin-left:20px;
+	overflow: hidden;
+	background-color:gray;
+	max-width:400px;
+	font: 15px arial, sans-serif; 
+	}
+li#menui{
+	display:inline;
+	float:left; 
+	}	
+li#menui a {
+	background-color:gray; 
+	text-align:center;
+	text-decoration:none;
+	color:white;
+	padding:10px;
+	float:left;
+	border:1px solid gray; borderradius: 5px; 
+	}
+li#menui a:hover {
+	background-color:#F5F5F5;
+	color: white;
+	text-align:center;
+	text-decoration:none; 
+	}underline overline dotted red
+	

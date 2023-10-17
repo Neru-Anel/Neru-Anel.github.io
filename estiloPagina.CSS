@@ -1,0 +1,124 @@
+*{
+	margin:0px:
+	padding:0px;
+}
+div#menuPrincipal{
+	margin-top:20px;
+	margin-left:20px;
+	width:1300px;
+	height:100px;
+	background-color:gray;
+}
+div#contenedor1{
+	float:left;
+	width:500px;
+	height:100px;
+	background-color:gray;
+}
+div#contenedor2{
+	float:right;
+	width:750px;
+	height:100px;
+	background-color:gray;
+}
+
+div#me{
+	margin-top:-20px;
+	margin-left:20px;
+	width:1300px;
+	height:700px;
+	background-color:#F8F8FF;
+	
+	text-align: center;
+	/*vertical-align: middle;*/
+}
+.image {
+	margin-top:0px;
+	margin-left:20px;
+	width:1300px;
+	height:500px;
+	background-image: url("potadaMe.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	
+	/*width: 100%; /* for IE 6 */
+}
+.move{
+	position:relative;
+	left:20px;
+	top:19px;
+}
+h2 {
+	position: absolute;
+	top: 400px;
+	left: 90px;
+	idth: 100%;
+}
+h2 span {
+	color: black;
+	font:  24px/50px Didot, Sans-Serif;
+	letter-spacing: -1px;
+	background: white;
+	padding: 5px;
+	padding-left:10px;
+	padding-right:10px;
+}
+h1#h1h {
+	position: absolute;
+	top: 470px;
+	left: 90px;
+	idth: 100%;
+}
+h1#h1h span {
+	color: black;
+	font:  blond 24px/50px Calibri, Sans-Serif;
+	font-size: 43px;
+	letter-spacing: -1px;
+	background: white;
+	padding: 5px;
+	padding-left:10px;
+	padding-right:10px;
+}
+h4#h4h{
+
+	font: 40px/0px Helvetica,Sans-Serif;
+	color:#2F4F4F;
+}
+.parrafoMe{
+	font: 20px Times, Sans-Serif;
+}
+
+ul#menu{
+	float:right;
+	list-style-type: none;
+	list-style-position: right;
+	padding: 10px;
+	border:3px solid gray;
+	border-radius: 5px;
+	margin:20px;
+	margin-left:20px;
+	overflow: hidden;
+	background-color:gray;
+	max-width:400px;
+	font: 15px arial, sans-serif; 
+	}
+li#menui{
+	display:inline;
+	float:left; 
+	}	
+li#menui a {
+	background-color:gray; 
+	text-align:center;
+	text-decoration:none;
+	color:white;
+	padding:10px;
+	float:left;
+	border:1px solid gray; borderradius: 5px; 
+	}
+li#menui a:hover {
+	background-color:#F5F5F5;
+	color: white;
+	text-align:center;
+	text-decoration:none; 
+	}underline overline dotted red
+	
